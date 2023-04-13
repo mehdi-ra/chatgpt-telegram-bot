@@ -49,3 +49,9 @@ Contributions to this project are welcome and encouraged! If you have any ideas 
 ## License
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). Feel free to use, modify, and distribute this code as needed.
+
+
+## Stargazers over time
+
+[![Stargazers over time](https://starchart.cc/sinanejadebrahim/chatgpt-telegram-bot.svg)](https://starchart.cc/sinanejadebrahim/chatgpt-telegram-bot)
+
