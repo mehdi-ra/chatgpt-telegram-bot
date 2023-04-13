@@ -1,10 +1,7 @@
 telegram
 datetime
 openai
-time
 redis
 kafka
-json
-threading
 sentry_sdk
 configparser
