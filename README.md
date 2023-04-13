@@ -28,7 +28,7 @@ The ChatGPT Telegram Bot is a Python-based Telegram bot that utilizes OpenAI's G
 
 To install and run the ChatGPT Telegram Bot on your own, follow these steps:
 
-1. Clone the repository to your local machine using `git clone https://github.com/your_username/ChatGPT-Telegram-Bot.git`.
+1. Clone the repository to your local machine using `git clone https://github.com/sinanejadebrahim/chatgpt-telegram-bot.git`.
 2. Install the required dependencies using `pip install -r requirements.txt`.
 3. Configure your bot token and API-KEY in `config.py` file.
 4. Start the bot using `python3 bot.py`.
