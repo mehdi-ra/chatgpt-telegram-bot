@@ -1,4 +1,5 @@
 telegram
+python-telegram-bot==13.5
 datetime
 openai
 redis
